@@ -23,7 +23,7 @@
 
 - 👋 my name is Irfan Hayat
 - 👀 I have five year Experience in  FULL STACK DEVELOPMENT
--    Currently working in SafariOne as 👨‍💻 FullStack Developer
+-    Currently working in APP IN SNAP as 👨‍💻 SENIOR FULL STACK Developer
 
 
  
