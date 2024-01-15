@@ -34,11 +34,11 @@
 ## My Stacks
 ```json
 {
-  "languages": ["Javascript", "Typescript", "Java", "c++", "c"],
+  "languages": ["Javascript", "Typescript", "Java", "c++", "c","nest js"],
   "frameworks/libraries": {
     "backend": ["Node js","Express","Passport","Send Grid"],
-    "frontend": ["React.js", "Angular 2/6/11","PrimeNg", "Material UI", "ANTD", "Tailwind Css", "Fire Base","Redux"],
-    "others": ["HTML5", "CSS3"]
+    "frontend": ["React.js", "Angular 2/6/11","PrimeNg", "Material UI", "ANTD", "Tailwind Css", "Fire Base","Redux","NEXT JS","Prime react"],
+    "others": ["HTML5", "CSS3","HTML"]
     },
   "database": ["PostgreSQL", "MongoDB", "MySQL"],
   "misc": ["Git", "Docker", "Linux", "AWS", "Redis"],
